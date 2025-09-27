@@ -1,2 +1,2 @@
-# Zhub1.0
-a hub of my creations in python, to know how it works, read the README there will be all the information and my e-mail to contact me.
+To use the hub, first you have to unzip the .zip, when it is unzipped, launch the file "hub.py", -Usage: to launch a command or a game you just have to type its name, list of commands/game: "jeu_nombre" (game), "test_rapidite" (game), "jeu_maths" (game), "minuteur_chronometre" (tool), "zos_os" (tool), "quit" (command), "/clear" (command), "score_joueur" (command), "score_global" (command).
+Warning: the hub is in French, wait for the next version for a translated version.
